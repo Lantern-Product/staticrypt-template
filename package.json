@@ -1,0 +1,23 @@
+{
+  "name": "@lantern-product/staticrypt-template",
+  "version": "1.0.0",
+  "description": "Lantern-branded staticrypt v3 password page template",
+  "main": "template.html",
+  "files": [
+    "template.html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lantern-Product/staticrypt-template.git"
+  },
+  "keywords": [
+    "staticrypt",
+    "lantern",
+    "template"
+  ],
+  "author": "cocolantern <courtny.lantern@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
